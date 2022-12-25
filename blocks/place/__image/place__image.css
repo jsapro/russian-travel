@@ -1,0 +1,13 @@
+.place__image {
+  width: 100%;
+  object-fit: cover;
+  padding-top: 32px;
+}
+
+@media screen and (min-width: 768px) {
+
+  .place__image {
+    padding-top: 0;
+  }
+}
+

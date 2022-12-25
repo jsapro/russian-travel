@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 64px 0 0 16px;
+  color: #FFFFFF;
+  text-align: left;
+}
+
+@media screen and (min-width: 768px) {
+  .footer {
+    display: flex;
+    flex-direction: row;
+    padding: 90px 24px 24px 24px;
+    color: #FFFFFF;
+    text-align: left;
+  }
+ }
+
+@media screen and (min-width: 1024px) {
+  .footer {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}

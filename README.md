@@ -1,15 +1,18 @@
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум.
 
-<img align="right" src="https://picsum.photos/400/400">
+<br/>
 
-<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="825" width="33">
+<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="700" width="33">
+
+<img align="right" src="./images/place-altai.jpg" alt="работа на ноутбуке на природе" height="400" width="400">
+
 <br/>
 
 **Проект «Путешествия по России».**
 
 Это адаптивный сайт на Flexbox и Grid Layout, который корректно отображается и на компьютере, и на телефоне.
 
-В процессе работы изучаются следующие темы:
+## В процессе работы изучаются следующие темы:
 
 - Отзывчивая вёрстка (адаптивная + резиновая)
 - Медиазапросы
@@ -21,8 +24,12 @@
 ## Необходимо доработать:
 
 - Добавить Javascript
+- +
+- +
+- +
 
-![работа на ноутбуке на природе](./images/place-altai.jpg)
+
+
 
 
 
