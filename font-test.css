@@ -5,6 +5,7 @@
     url(https://pictures.s3.yandex.net/fonts/Ibmplexserif.ttf) format('truetype');
   font-family: 'IBM Plex Serif';
   font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
@@ -14,6 +15,7 @@
     url(https://pictures.s3.yandex.net/fonts/ubuntu.ttf) format('truetype');
   font-family: 'Ubuntu';
   font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
@@ -23,6 +25,7 @@
     url(https://pictures.s3.yandex.net/fonts/istokregular.ttf) format('truetype');
   font-family: 'Istok Web';
   font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
@@ -32,6 +35,8 @@
     url(https://pictures.s3.yandex.net/fonts/Ibmplexserifsemibold.ttf) format('truetype');
   font-family: 'IBM Plex Serif';
   font-weight: bold;
+  font-style: normal;
+
 }
 
 /*@font-face {
@@ -61,11 +66,7 @@
   font-weight: bold;
 }
 
-----------------------------------------------
-----------------------------------------------
-----------------------------------------------
-
-
+---------------------------------------------- ---------------------------------------------- ----------------------------------------------
 /* .font-container_font_ibm {
   font-family: 'IBM Plex Serif', serif;
 }
@@ -82,6 +83,4 @@
   font-weight: bold;
 } */
 
-----------------------------------------------
-----------------------------------------------
-----------------------------------------------
+---------------------------------------------- ---------------------------------------------- ----------------------------------------------
