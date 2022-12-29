@@ -1,0 +1,12 @@
+.footer__link-item {
+  padding-bottom: 32px;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__link-item {
+    padding-bottom: 0;
+  }
+}
+
+
+
